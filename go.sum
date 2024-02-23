@@ -1,5 +1,7 @@
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
+github.com/cetinboran/gosecAPI v0.0.0-20230827183358-b8b1146e1dfc h1:RAVdthp3/mIkFMpMiLXElq5nLXRZ1EoEyl6mNeUR4eI=
+github.com/cetinboran/gosecAPI v0.0.0-20230827183358-b8b1146e1dfc/go.mod h1:bkFKbNG3o+L5qX76hv+uNfyTUBssWd8Z5jsBwWGF6ec=
 github.com/gofiber/fiber/v2 v2.49.0 h1:xBVG2c66GDcWfww56xHvMn52Q0XX7UrSvjj6MD8/5EE=
 github.com/gofiber/fiber/v2 v2.49.0/go.mod h1:oxpt7wQaEYgdDmq7nMxCGhilYicBLFnZ+jQSJcQDlSE=
 github.com/google/uuid v1.3.1 h1:KjJaJ9iWZ3jOFZIf1Lqf4laDRCasjl0BCmnEGxkdLb4=

@@ -1,8 +1,13 @@
-module github.com/cetinboran/gosecAPI
+module gosecAPI
 
-go 1.20
+go 1.21
 
-require github.com/gofiber/fiber/v2 v2.49.0
+toolchain go1.21.1
+
+require (
+	github.com/cetinboran/gosecAPI v0.0.0-20230827183358-b8b1146e1dfc
+	github.com/gofiber/fiber/v2 v2.49.0
+)
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
